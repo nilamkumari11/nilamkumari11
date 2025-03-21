@@ -1,6 +1,8 @@
-## Hi there 👋
+# Hi there👋, I'm Nilam Kumari
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nilamkumari11)](https://github.com/nilamkumari11/github-readme-stats)
+<img alt="my Stats" align="left" width=47% src="https://github-readme-stats.vercel.app/api?username=nilamkumari11&show_icons=true"/>
+
+<img alt="top langs" align="right" width=42% src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilamkumari11&layout=compact"/>
 <!--
 **nilamkumari11/nilamkumari11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
