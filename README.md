@@ -13,7 +13,7 @@
 <img alt="my Stats" align="left" width=45% src="https://github-readme-stats.vercel.app/api?username=nilamkumari11&show_icons=true"/>
 
 <img alt="top langs" align="rightt" width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilamkumari11&layout=compact"/>
-<p><img align="left" width=45% src="https://github-readme-streak-stats.herokuapp.com/?user=nilamkumari11&" alt="nilamkumari11" /></p>
+<img align="centre" width=45% src="https://github-readme-streak-stats.herokuapp.com/?user=nilamkumari11&" alt="nilamkumari11" />
 
 <!--
 <img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilamkumari11&layout=compact"/>
