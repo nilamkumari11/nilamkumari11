@@ -10,13 +10,12 @@
 </p>
 
 
-<img alt="my Stats" align="left" width=45% src="https://github-readme-stats.vercel.app/api?username=nilamkumari11&show_icons=true"/>
+<img alt="my Stats" align="left" width=46% src="https://github-readme-stats.vercel.app/api?username=nilamkumari11&show_icons=true"/>
 
-<img alt="top langs" align="rightt" width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilamkumari11&layout=compact"/>
-<img align="centre" width=45% src="https://github-readme-streak-stats.herokuapp.com/?user=nilamkumari11&" alt="nilamkumari11" />
+<img align="centre" width=47% src="https://github-readme-streak-stats.herokuapp.com/?user=nilamkumari11&" alt="nilamkumari11" />
 
 <!--
-<img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilamkumari11&layout=compact"/>
+<img alt="top langs" align="rightt" width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilamkumari11&layout=compact"/>
 
 
 **nilamkumari11/nilamkumari11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
