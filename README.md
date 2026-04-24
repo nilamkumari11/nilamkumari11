@@ -1,17 +1,20 @@
 <h1 align="center">Hi there 👋, I'm Nilam Kumari</h1>
 <h3 align="center">A Frontend Developer from India</h3>
 
-
-<img align="right" alt="Coding" width="290" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif"/>
-
 ---
 
-### 🚀 About Me
+<img align="right" alt="Coding" width="260" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif"/>
 
-* 🔭 I’m currently working on **Backend Development**
-* 🌱 I’m currently learning **Express, MongoDB, Node.js**
-* 💬 Ask me about **HTML, CSS, JavaScript, React**
-* 📫 Reach me at **[nilamkumari2k4@gmail.com](mailto:nilamkumari2k4@gmail.com)**
+
+### 🚀 About Me 
+
+
+- 🔭 I’m currently working on **Backend Development**  
+- 🌱 I’m currently learning **Express, MongoDB, Node.js**  
+- 💬 Ask me about **HTML, CSS, JavaScript, React**  
+- 📫 Reach me at **[nilamkumari2k4@gmail.com](mailto:nilamkumari2k4@gmail.com)**  
+
+<br clear="right"/>
 
 ---
 
